@@ -9,7 +9,7 @@ In this assignment you will be using println to create formatted console output,
 cd /usr/local/bin
 ./processing
 ```
-3. Fork the assignment.
+3. Fork the assignment (using the fork button in GitHub). Clone the assigment to your Raspberry Pi (```git clone git://github.com/mariopineda/ascii-art-assignment.git ```).
 4. Create an emtpy file for your code called ``ascii-art-assignment.pde``  if you are using Processing or ``ascii-art-assignment.java`` if you are using java. 
 5. Add the program skeleton. If you are using Processing the skelton code is:
 ```
