@@ -3,7 +3,7 @@
 In this assignment you will be using println to create formatted console output, including ASCII art.
 
 ## Set up
-1. If you have not yet installed Processing on your Raspberry Pi you can do so by running the following command in the terminal:  ```wget https://processing.org/download/install-arm.sh | sudo sh install-arm.sh```
+1. If you have not yet installed Processing on your Raspberry Pi you can do so by running the following command in the terminal:  ```wget https://processing.org/download/install-arm.sh && sudo sh install-arm.sh```
 2. To launch processing run the following set of commands in the terminal:
 ```
 cd /usr/local/bin
