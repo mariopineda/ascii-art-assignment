@@ -4,9 +4,14 @@ In this assignment you will be using println to create formatted console output,
 
 ## Set up
 1. If you have not yet installed Processing on your Raspberry Pi you can do so by runing the following command in the terminal:  ```wget https://processing.org/download/install-arm.sh | sudo sh install-arm.sh```
-2. Fork the assignment.
-3. Create an emtpy file for your code called ``ascii-art-assignment.pde``  if you are using Processing or ``ascii-art-assignment.java`` if you are using java. 
-4. Add the program skeleton. If you are using Processing the skelton code is:
+2. To launch processing run the following set of commands in the terminal:
+```
+cd /usr/local/bin
+./processing
+```
+3. Fork the assignment.
+4. Create an emtpy file for your code called ``ascii-art-assignment.pde``  if you are using Processing or ``ascii-art-assignment.java`` if you are using java. 
+5. Add the program skeleton. If you are using Processing the skelton code is:
 ```
 /**
  * <program/assignment name>
