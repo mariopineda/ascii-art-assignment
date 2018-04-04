@@ -9,10 +9,12 @@ In this assignment you will be using println to create formatted console output,
 cd /usr/local/bin
 ./processing &
 ```
-3. Fork the assignment (using the fork button in GitHub). Clone the assigment to your Raspberry Pi (```git clone git://github.com/mariopineda/ascii-art-assignment.git ```).
-4. Navigate to the cloned repository (```cd ascii-art-assignment```) and launch processing.
-5. From within the Processing IDE create an empty file for your code called ```ascii-art-assignment.pde``` if you are using Processing or ```ascii-art-assignment.java``` if you are using java. Make sure you save the file in the assignment repository.
-6. Add the program skeleton. If you are using Processing the skelton code is:
+3. Fork the assignment (using the fork button in GitHub). 
+4. Clone the assigment to your Raspberry Pi (```git clone git://github.com/mariopineda/ascii-art-assignment.git ```).
+5. Navigate to the cloned repository (```cd ascii-art-assignment```) and launch processing.
+6. If you are using Processing, from within the Processing IDE, create an empty file for your code called ```ascii-art-assignment```. if you are using java create an empty file called ```ascii-art-assignment.java```. Make sure you save the file in the assignment repository.
+7. Commit!
+8. Add the program skeleton. If you are using Processing the skelton code is:
 ```
 /**
  * <program/assignment name>
@@ -30,9 +32,10 @@ void draw() {
 
 }
 ```
+9. Commit!
 
 ## Part 1
-Using the ```print``` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
+Using the ```print``` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When running your program the letters must line up properly.
 
 ![](images/beatrix.png)
 
