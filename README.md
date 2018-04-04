@@ -61,6 +61,4 @@ Go to the site http://www.chris.com/ascii/ and look at some of the examples of A
 ![](images/ASCIIStarwars.jpg)
 
 ## Handing in your assignment
-When you are done submit your assignment for marking by submitting a new Issue tagged with @mariopineda as follows. If yur assignment is not submitted for marking *exactly* like this it will not be marked.
-
-![](images/submitting-assignment.gif)
+[Instructions for handing in completed assignments](https://github.com/mariopineda/computer-science-rubric/blob/master/README.md)
