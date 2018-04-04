@@ -7,7 +7,7 @@ In this assignment you will be using println to create formatted console output,
 2. To launch processing run the following set of commands in the terminal:
 ```
 cd /usr/local/bin
-./processing
+./processing &
 ```
 3. Fork the assignment (using the fork button in GitHub). Clone the assigment to your Raspberry Pi (```git clone git://github.com/mariopineda/ascii-art-assignment.git ```).
 4. Navigate to the cloned repository (```cd ascii-art-assignment```) and launch processing.
