@@ -61,4 +61,4 @@ Go to the site http://www.chris.com/ascii/ and look at some of the examples of A
 ![](images/ASCIIStarwars.jpg)
 
 ## Handing in your assignment
-[Instructions for handing in completed assignments](https://github.com/mariopineda/computer-science-rubric/blob/master/README.md)
+[Instructions for handing in completed assignments](https://github.com/mariopineda/marking-sop)
