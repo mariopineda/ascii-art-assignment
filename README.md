@@ -1,12 +1,22 @@
-# ascii-art-assignment
+# processing-console-1-ascii-art
 
 In this assignment you will be using println to create formatted console output, including ASCII art.
 
 ## Set up
-1. If you have not yet installed Processing on your Raspberry Pi you can do so by runing the following command in the terminal:  ```curl https://processing.org/download/install-arm.sh | sudo sh```
-2. Fork the assignment.
-3. In the Processing IDE, create and save an emtpy file for your code called ``ascii-art-assignment``. 
-4. Add the program skeleton. If you are using Processing the skelton code is:
+
+1. If you have not yet installed Processing on your Raspberry Pi you can do so by running the following command in the terminal:  ```wget https://processing.org/download/install-arm.sh && sudo sh install-arm.sh```
+2. To launch processing run the following set of commands in the terminal:
+```
+cd /usr/local/bin
+./processing &
+```
+3. Fork the assignment (using the fork button in GitHub). 
+4. Clone the assigment to your Raspberry Pi (```git clone git://github.com/mariopineda/ascii-art-assignment.git ```).
+5. Navigate to the cloned repository (```cd ascii-art-assignment```) and launch processing.
+6. In the Processing IDE, create and save an empty file for your code called ``ascii-art-assignment``.
+7. Commit!
+8. Add the program skeleton. If you are using Processing the skelton code is:
+
 ```
 /**
  * <program/assignment name>
@@ -24,9 +34,10 @@ void draw() {
 
 }
 ```
+9. Commit!
 
 ## Part 1
-Using the ```print``` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When ran, the letters must line up properly.
+Using the ```print``` (reference for ```print```: https://processing.org/reference/print_.html) and ``println`` (reference for ```println```: https://processing.org/reference/println_.html) constructs write code that console prints the first six letters of your first and/or last names so that it looks like the following example.  When running your program the letters must line up properly.
 
 ![](images/beatrix.png)
 
@@ -52,6 +63,4 @@ Go to the site http://www.chris.com/ascii/ and look at some of the examples of A
 ![](images/ASCIIStarwars.jpg)
 
 ## Handing in your assignment
-When you are done submit your assignment for marking by submitting a new Issue tagged with @mariopineda as follows. If yur assignment is not submitted for marking *exactly* like this it will not be marked.
-
-![](images/submitting-assignment.gif)
+[Instructions for handing in completed assignments](https://github.com/mariopineda/marking-sop)
