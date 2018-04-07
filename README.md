@@ -1,4 +1,4 @@
-# ascii-art-assignment
+# processing-console-1-ascii-art
 
 In this assignment you will be using println to create formatted console output, including ASCII art.
 
