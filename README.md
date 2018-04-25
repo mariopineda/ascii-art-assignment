@@ -1,5 +1,7 @@
 # processing-console-1-ascii-art
 
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 In this assignment you will be using println to create formatted console output, including ASCII art.
 
 ## Set up
